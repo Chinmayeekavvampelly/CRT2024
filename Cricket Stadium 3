@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+
+int main() {
+    int a,b;
+    scanf("%d\n%d\n",&a,&b);
+    int r1=2*(a+b);
+    printf("%d\n",r1);
+    int r2=a*b;
+    printf("%d\n",r2);
+    return 0;
+}
