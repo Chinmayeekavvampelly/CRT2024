@@ -1,0 +1,16 @@
+#include <stdio.h>
+void line(){
+    printf("---------\n");
+}
+void show(){
+    printf("python\n");
+}
+int main()
+{
+  line();
+  show();
+  line();
+    
+    }
+
+
