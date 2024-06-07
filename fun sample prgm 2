@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+void show(){
+    printf("python\n");
+}
+int main()
+{
+  show();
+  show();
+  show();
+    
+    }
+
