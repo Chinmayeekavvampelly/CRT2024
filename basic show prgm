@@ -1,0 +1,21 @@
+#include <stdio.h>
+int a=100;
+
+void show()
+{
+   
+    printf("vignan\n");
+    printf("hyd\n");
+}
+
+
+int main()
+{
+    show();
+    show();
+    show();
+    
+
+
+    return 0;
+}
